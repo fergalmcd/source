@@ -1,0 +1,319 @@
+"PageOneTitle" = "Morning Monitoring";
+"PageOneExplain" = "WRU Player Morning Monitoring";
+"PageOneFullTitle" = "WRU Player";
+"PageOneSubTag" = "Morning Monitoring";
+
+"DocTOTInfoTitle" = "Information";
+"DocTOTAboutTitle" = "Contact Information";
+"DocTOTHomeTitle" = "Home";
+"DocTOTSettingsTitle" = "Settings";
+"DocTOTInfoExplain" = "<p style='font: 10pt Helvetica;color:#FFFFFF;'>If you want to speak with anybody back in Wales, please use the contacts below<BR><BR>
+<B>BACKROOM STAFF</B><BR><BR>
+<TABLE border = 1 bgcolor= #FFFFFF >
+<TR><TD><B>Name</B></TD><TD><B>Role</B></TD><TD><B>Email</B></TD><TD><B>Telephone</B></TD></TR>
+<TR><TD>Adam Beard</TD><TD>Head of Physical Performance</TD><TD>ABeard@wru.co.uk</TD><TD>+44 844 249 1999</TD></TR>
+<TR><TD>Ryan Chambers</TD><TD>Sports Scientist</TD><TD>RChambers@wru.co.uk</TD><TD>+44 758 448 8264</TD></TR>
+</TABLE>
+<BR><BR>
+<B>DIARY</B><BR><BR>
+Next Welsh team Event: Squad Camp xx/xx/2014
+<BR><BR><BR>";
+"WRUContactInfoLink" = "some online link to WRU contacts";
+
+"Welcome_To_Doctot" = "Welcome to";
+"Simple_Welcome" = "Welcome";
+"Welcome_Error" = "Please enter all your details";
+"Registration" = "Registration";
+"Support" = "Supported by an unrestricted educational grant from:";
+"Support_AddInfo" = "For more information, visit:";
+"Support_URL" = "www.wru.co.uk";
+"Doctot_Data" = "For more information see";
+"Copyright" = "Copyright (C) 2014 Tailteann. All Rights Reserved.";
+
+"Settings_Heading1" = "User Details";
+"Settings_Heading2" = "Access PIN";
+"Settings_Heading3" = "Defaults";
+"Settings_Heading4" = "Scale Specific Data";
+"Settings_Heading5" = "Daily Notification Time";
+"Settings_Heading6" = "Default Sleep Time";
+"Settings_Heading7" = "Default Wake Up Time";
+
+"Settings_EditUser" = "Edit your user details";
+"Settings_UpdateUser" = "Update User";
+"Settings_OwnerDetails" = "Owner";
+"Settings_MaxSave" = "Set the maximum number of scores that can be saved per rating scale";
+"Settings_Password_Label" = "PIN Entry Required";
+"Settings_Password" = "Enter Unlock Code (PIN)";
+"Settings_Password_Update" = "Enter New Unlock Code (PIN)";
+"Settings_AutomaticEmail" = "Send Scores as Email";
+"Settings_ShakeReset" = "Shake to Reset Scales";
+"Settings_Password_Error" = "PIN is incorrect";
+"Settings_Password_Incomplete" = "PIN entry incomplete";
+"Settings_Password_Empty_Heading" = "PIN Removed";
+"Settings_Password_Empty_Text" = "PIN entry is not required for access";
+"Settings_Password_Complete_Heading" = "PIN Updated";
+"Settings_Password_Complete_Text" = "The PIN has been successfully updated";
+"Settings_Password_Change" = "Update PIN";
+"Settings_Password_Clear" = "No PIN";
+"Settings_MaxSave_Label" = "Maximum Scale Saves";
+"Settings_DailyNotification" = "Daily Notification @";
+"Settings_SleepTime" = "Default Bed Time";
+"Settings_WakeUpTime" = "Default Wake Up Time";
+"Settings_WeightUnits" = "Weight Units Displayed";
+
+"Info_QuestionOverview_Heading" = "Overview of Scale Item";
+"Info_QuestionOverview_Explanations" = "Each item of a scale is presented in a screen similar to the one illustrated below. Scroll down to find explanations of the various elements of a scale item/question.";
+"Info_QuestionOverview_Label1" = "Total Score for the Assessment to this point. Its' colour will change to reflect the category or severity of the score.";
+"Info_QuestionOverview_Label2" = "The score for this particular item/question.";
+"Info_QuestionOverview_Label3" = "Navigation button: Return to Start Screen.";
+"Info_QuestionOverview_Label4" = "Navigation button: Access to Scale Information and Help on using the tool.";
+"Info_QuestionOverview_Label5" = "Navigation button: Displays additional information relating to the current item (e.g. hints as to what instructions to give the patient).";
+"Info_QuestionOverview_Label6" = "Question / Item Heading";
+"Info_QuestionOverview_Label7" = "Question / Item Subheading / Instructions";
+"Info_QuestionOverview_Label8" = "Data Input Button: Selected Option.";
+"Info_QuestionOverview_Label9" = "Data Input Button: Unselected Option.";
+"Info_QuestionOverview_Label10" = "Question / Item Hint: In the Settings section, certain questions may be customised to the user's preference.";
+"Info_QuestionOverview_Label11" = "Assessment Reset Slider: By sliding the red marker across the screen, the assessment is cancelled and returns to the scale's home screen.";
+"Info_QuestionOverview_Label12" = "Navigation button: Back to the previous question / item.";
+"Info_QuestionOverview_Label13" = "Navigation button: Forward to the next question / item.";
+"Info_QuestionOverview_Label14" = "Progress Bar: Indicates how far through the assessment the user has navigated.";
+"Info_QuestionAnswered_Heading" = "Completing a Scale Item";
+"Info_QuestionAnswered_Explanations" = "Completing a scale item/question is an intuitive operation. The process is as follows:";
+"Info_QuestionAnswered_Label1" = "1. The scale item is presented with neither option selected.";
+"Info_QuestionAnswered_Label2" = "2. Tap on the option required to provisionally selects it.";
+"Info_QuestionAnswered_Label3" = "3. Tap on the option again to 'lock in' the selection (and automatically moves to the next item/question).";
+"Info_QuestionAnswered_Label4" = "4. Alternatively, using the Previous or Next navigation buttons will 'lock in' the answer.";
+"Info_QuestionAnswered_Label5" = "5. If required, change the selected option by simply choosing another option.";
+"Info_QuestionAnswered_Label6" = "6. If required, shake the phone to reset the item so that no item is selected. Note: If the phone is shaken when no option has been selected for the current item/question, the app will attempt to reset the entire assessment.";
+"Info_QuestionAnswered_Label7" = "7. If required, slide the reset slider marker to the end of the track to nullify the test and return to the scale's home screen.";
+"Info_ShakeToReset_Heading" = "Shake To Reset";
+"Info_ShakeToReset_Explanations" = "The 'shake' functionality of the iPhone is utilised so the current item and indeed the entire assessment can be reset. Scroll down to examine how this is implemented. \n\nTake the following case:";
+"Info_ShakeToReset_Label1" = "Shake the phone to reset the item so that no option is selected.";
+"Info_ShakeToReset_Label2" = "If the phone is shaken when no option has been selected for the current item/question, the app will attempt to reset the entire assessment.";
+"Info_ShakeToReset_Label3" = "Selecting the 'Continue' option will reset the entire assessment and navigates back to the scale's home screen.";
+"Info_SavedScores_Heading" = "Reviewing Saved Scores";
+"Info_SavedScores_Explanations" = "Each scale assessment saved is listed. For each entry, the assessment date, patient's name and scale score is detailed. A coloured icon denotes which category the score occupies. (Scroll down to see more).";
+"Info_SavedScores_Label1" = "The list can be sorted by date of assessment, patient's last name and scale score - both in ascending and descending order.";
+"Info_SavedScores_Label2" = "The 'Edit' button can be used to delete entries.";
+"Info_SavedScores_Label3" = "Tapping the list entry accesses the score and displays it in more detail.";
+"Info_SavedScores_Label4" = "The scale's selected score screen gives a detailed breakdown of an individual recorded assessment. Name, date, score and colour-coded categorisation are displayed. Also, the individual items of the assessment are listed in the white text box. This is scrollable if all the details do not fit initially.";
+"Info_SavedScores_Label5" = "Tapping the score displays the relevant category / severity of that score.";
+"Info_SavedScores_Label6" = "To delete the assessment, slide the red marker to the end of the slider track.";
+"Info_Settings_Heading" = "App Level Settings";
+"Info_Settings_Explanations" = "The Settings screen allows options to be specified, which apply to all of the scales in the app.";
+"Info_Settings_Label1" = "The users' name (for greeting purposes) and email address (the recipient email for completed assessments) can be specified here.";
+"Info_Settings_Label2" = "A 4-digit PIN number can be enabled / disabled / specified to provide additional security to the app.";
+"Info_Settings_Label3" = "The maximum number of 'save-able' assessments per scale can be specified by using the provided slider control. The maximum value is 20. The mnimum is 1.";
+"Info_Settings_Label4" = "Each assessment can be emailled to the specified email address by turning the relevant option on.";
+"Info_Settings_Label5" = "Individual scale items can be reset by shaking the iPhone when the relevant option is turned on.";
+"Info_Settings_Label6" = "";
+"Info_Stopwatch_Heading" = "Stopwatch";
+"Info_Stopwatch_Explanations" = "The stopwatch option appears with questions/items where the patient's response to a command must be timed. It's operation is described as follows:";
+"Info_Stopwatch_Label1" = "1. Tap 'Start' to begin timing the patient.";
+"Info_Stopwatch_Label2" = "2. Once the task is complete, tap 'Stop'.";
+"Info_Stopwatch_Label3" = "The most relevant item option is selected but please NOTE that this is a suggested selection and the final selection is completely the user's decision.";
+"Info_Stopwatch_Label4" = "PLEASE NOTE also that moving to the next question pauses the stopwatch and the default option selected is taken as the answer to the item.";
+
+"Button_Start" = "Start";
+"Button_Restart" = "Restart";
+"Button_Tap" = "Tap";
+"Button_ClearSelection" = "Clear Selection (Double Tap)";
+"Button_StartTest" = "Start Morning Monitoring";
+"Button_Information" = "Information";
+"Button_SavedScores" = "Saved Scores";
+"Button_OK" = "OK";
+"Button_Done" = "DONE";
+"Button_Submit" = "SUBMIT";
+"Button_Previous" = "Previous";
+"Button_Continue" = "Continue";
+"Button_Perform" = "Perform";
+"Button_Save" = "Save";
+"Button_Back" = "Back";
+"Button_Cancel" = "Cancel";
+"Button_Delete" = "Delete";
+"Button_Login" = "Login";
+
+"Save_Title" = "Surveys";
+"Save_FullName" = "Name";
+"Save_Password" = "Password";
+"Save_Date" = "Date";
+"Save_Score" = "Score";
+"Save_Diagnosis" = "Suggested Interpretation";
+"Save_DiagnosisExtended" = "Suggested Diagnosis/Action";
+"Delete_ConfirmQuestion" = "Are you sure you want to delete this score?";
+"Save_Email" = "Email";
+"Save_TableFull" = "The maximum number of scores have already been recorded for this rating scale. Press 'Continue' to save this score and delete the first score recorded";
+"Save_NotAssessed" = "Not Assessed";
+"Save_ScoresTitle" = "Saved Scores";
+"Save_ScoresIndividual" = "Selected Score";
+"Save_Total" = "Total";
+"Save_Conflict" = "You have already submitted a morning monitoring survey for today";
+"Save_DismissSurvey" = "Are you sure you want to quit this morning monitoring? (Your entry will be lost)";
+"Reset_ScaleShake" = "This action will cause the current test to be lost";
+
+"Screen_Font" = "<STYLE TYPE='text/css'>
+<!--
+TD{font-family: Arial;color:#000000; font-size: 10pt;}
+    LI{font-family: Arial;color:#000000; font-size: 10pt;}
+        CENTER{font-family: Arial;color:#000000; font-size: 10pt;}
+            --->
+            </STYLE>
+            <p style='font: 10pt Helvetica;color:#000000;'><BR>";
+"Screen_Footer" = "<BR><BR><BR><BR><BR><BR><BR><BR>";
+"Screen_Resubmit" = "Resubmit";
+
+"Notification_Message" = "Time for your Morning Monitoring!";
+"Notification_NoWifiHeading" = "No Wi-Fi";
+"Notification_NoWifiMessage" = "You do not have wi-fi access to submit your data.";
+
+"Email_Results" = "Results";
+"Email_Sent" = "The email with results has been sent";
+"Email_Saved" = "This email with results has been saved";
+"Email_Cancelled" = "The email with results has not been sent";
+
+"Final_Button_Save" = "Save";
+"Final_Insert_First_Name" = "First Name";
+"Final_Insert_Last_Name" = "Last Name";
+"Final_Save_Explanation" = "Hit 'Save' button to complete.";
+"Final_Save_No_Name_Entered" = "Please enter both a First Name and Last Name in order to save this score";
+"Final_Save_No_Score_Entered" = "The assessment has not been suffiently completed";
+"Final_Save_Confirm" = "Are you happy to submit today's survey?";
+"Final_Save_Complete" = "Morning Monitoring saved successfully";
+"Final_Save_Fail" = "Connection failed! The Morning Monitoring has been saved to your device. Resubmit the survey the next time you are connected to Wi-Fi.";
+
+"Info_Rating" = "Rating";
+"Info_AdministrationTime" = "Administration Time";
+"Info_MainPurpose" = "Main Purpose";
+"Info_Population" = "Population";
+"Info_Overview" = "Overview";
+"Info_Commentary" = "Commentary";
+"Info_Scoring" = "Scoring";
+"Info_Versions" = "Versions";
+"Info_AdditionalReferences" = "Additional References";
+"Info_Address" = "Address";
+"Info_Help" = "Help";
+
+"Question" = "Question";
+"Of" = "of";
+"SlideInstruction" = "Slide to Exit";
+"SlideInstructionDelete" = "Slide to Delete";
+
+
+"WRUPLAYER_Total" = "WRU Morning Monitoring: ";
+"WRUPLAYER_Final_Score_Intro" = "Thank you, ";
+
+"WRUPLAYER_Q1" = "Morning Weight";
+"WRUPLAYER_Q1_Subheading" = "Please enter your current weight:";
+"WRUPLAYER_Q2" = "Bed Time";
+"WRUPLAYER_Q2_Subheading" = "What time did you go to bed at last night";
+"WRUPLAYER_Q3" = "Wake Up Time";
+"WRUPLAYER_Q3_Subheading" = "What time did you wake up at this morning?";
+"WRUPLAYER_Q4" = "Sleeping Tablet";
+"WRUPLAYER_Q4_Subheading" = "Did you take a sleeping tablet last night?";
+"WRUPLAYER_Q4_Item0" = "NO";
+"WRUPLAYER_Q4_Item1" = "YES";
+"WRUPLAYER_Q4_Subheading" = "Have you taken any medication?";
+"WRUPLAYER_Q5" = "Sleep, Energy, Mood";
+"WRUPLAYER_Q5_Subheading" = "";
+"WRUPLAYER_Q5_Item0" = "Sleep: How well did you sleep last night?";
+"WRUPLAYER_Q5_Item1" = "Energy: How is your energy this morning?";
+"WRUPLAYER_Q5_Item2" = "Mood: How happy are you this morning?";
+"WRUPLAYER_Q6" = "Low Sleep Score";
+"WRUPLAYER_Q6_Subheading" = "You entered a sleep score below 3. Why?";
+"WRUPLAYER_Q6_Item0" = "Couldn't get to Sleep";
+"WRUPLAYER_Q6_Item1" = "Woke Up Early";
+"WRUPLAYER_Q6_Item2" = "Woke Up during the night and couldn't get back to sleep";
+"WRUPLAYER_Q6_Item3" = "Woke up during the night (Kids/Noises)";
+"WRUPLAYER_Q6_Item4" = "";
+"WRUPLAYER_Q7" = "Low Energy Score";
+"WRUPLAYER_Q7_Subheading" = "You entered an energy score below 3. Why?";
+"WRUPLAYER_Q7_Item0" = "I feel tired & run down";
+"WRUPLAYER_Q7_Item1" = "My nutritional habits are poor";
+"WRUPLAYER_Q7_Item2" = "Busy off-field activities";
+"WRUPLAYER_Q7_Item3" = "Extra family/friend commitments";
+"WRUPLAYER_Q7_Item4" = "Other";
+"WRUPLAYER_Q8" = "Low Mood Score";
+"WRUPLAYER_Q8_Subheading" = "You entered a mood score below 3. Why?";
+"WRUPLAYER_Q8_Item0" = "Not enjoying my game at the minute";
+"WRUPLAYER_Q8_Item1" = "I feel under pressure at the minute";
+"WRUPLAYER_Q8_Item2" = "Stuff happening off-field";
+"WRUPLAYER_Q8_Item3" = "Other";
+"WRUPLAYER_Q9" = "Injuries";
+"WRUPLAYER_Q9_Subheading" = "Do you have any injuries?";
+"WRUPLAYER_Q9_Item0" = "Undo";
+"WRUPLAYER_Q9_Item1" = "Clear All";
+"WRUPLAYER_Q9_Item2" = "Flip Body";
+"WRUPLAYER_Q9_Item3" = "Zoom";
+"WRUPLAYER_Q9_Item4" = "Injury Summary";
+"WRUPLAYER_Q9_Item5" = "Injury List";
+"WRUPLAYER_Q10" = "Stiffness";
+"WRUPLAYER_Q10_Subheading" = "Do you feel any stiffness?";
+"WRUPLAYER_Q10_Item0" = "Undo";
+"WRUPLAYER_Q10_Item1" = "Clear All";
+"WRUPLAYER_Q10_Item2" = "Stiffness Summary";
+"WRUPLAYER_Q10_Item3" = "Stiffness List";
+"WRUPLAYER_Q11" = "Illness";
+"WRUPLAYER_Q11_Subheading" = "Do you have an illness to report?";
+"WRUPLAYER_Q11_Item0" = "Headache";
+"WRUPLAYER_Q11_Item1" = "Sick Stomach";
+"WRUPLAYER_Q11_Item2" = "Cold/Flu Symptoms";
+"WRUPLAYER_Q11_Item3" = "Diahorrea";
+"WRUPLAYER_Q11_Item4" = "Other";
+"WRUPLAYER_Q11_Item5" = "I'm healthy";
+"WRUPLAYER_Q12" = "Request a Call Back";
+"WRUPLAYER_Q12_Subheading" = "Let us know if you would like any of these people from WRU to get in touch with you";
+"WRUPLAYER_Q12_Item0" = "No thanks, I'm ok today";
+"WRUPLAYER_Q12_Item0_Email" = "";
+"WRUPLAYER_Q12_Item1" = "Head Coach";
+"WRUPLAYER_Q12_Item1_Email" = "wgatland@wru.co.uk";
+"WRUPLAYER_Q12_Item2" = "Physical Performance & Nutrition";
+"WRUPLAYER_Q12_Item2_Email" = "abeard@wru.co.uk";
+"WRUPLAYER_Q12_Item3" = "Team Physio";
+"WRUPLAYER_Q12_Item3_Email" = "physio@wru.co.uk";
+"WRUPLAYER_Q12_Item4" = "Team Doctor";
+"WRUPLAYER_Q12_Item4_Email" = "medical@wru.co.uk";
+"WRUPLAYER_Q12_Item5" = "Coach";
+"WRUPLAYER_Q12_Item5_Email" = "mycoach@wru.co.uk";
+"WRUPLAYER_Q13" = "General Comments";
+"WRUPLAYER_Q13_Subheading" = "Please enter the message you wish to send:";
+"WRUPLAYER_Q13_Item0" = "Double Tap to Generate Email";
+
+"WRUPLAYER_Item0" = "NO";
+"WRUPLAYER_Item1" = "YES";
+
+"WRUPLAYER_Complete" = "You have successfully completed: Morning Monitoring";
+
+"WRUPLAYER_WeightNormal" = "Normal";
+"WRUPLAYER_WeightOver" = "Overweight";
+"WRUPLAYER_WeightUnder" = "Underweight";
+"WRUPLAYER_WeightOsmo" = "Your weight has dropped significantly since your last monitoring. Remember to take an osmo test if you haven't done one this morning.";
+"WRUPLAYER_WeightGainMessage" = "Your weight has increased significantly since your last monitoring.";
+
+"WRUPLAYER_Info_Reference" = "Gage BF, van Walraven C, Pearce L, et al. (2004). Selecting patients with atrial fibrillation for anticoagulation: stroke risk stratification in patients taking aspirin. Circulation 110 (16): 2287–92.\n
+http://www.chadsvasc.org \n
+http://en.wikipedia.org/wiki/CHADS2_score \n
+http://www.globalrph.com/chads2vasc_scoring_system.cgi";
+"WRUPLAYER_Info_Rating" = "Clinician-rated";
+"WRUPLAYER_Info_AdministrationTime" = "1-3 Minutes. The time taken on the traditional paper-based system is typically 5 minutes.";
+"WRUPLAYER_Info_MainPurpose" = "To estimate the risk of stroke in patients with non-rheumatic atrial fibrillation.";
+"WRUPLAYER_Info_Population" = "Geriatric Adults";
+"WRUPLAYER_Info_Commentary" = "The original CHA2DS2 score score is the best validated clinical prediction rule for estimating the risk of stroke in patients with non-rheumatic atrial fibrillation (AF), a common and usually benign heart arrhythmia. It is used to determine the degree of anticoagulation therapy required, since AF can cause stasis of blood in the upper heart chambers, leading to the formation of a mural thrombus that can dislodge into the blood flow, reach the brain and cause a stroke. \n
+However, in clinical use, the CHA2DS2 score has been superseded by the CHA2DS2-VASc score that gives a better stratification of low-risk patients.\n
+The CHA2DS2-VASc score has been used in the new European Society of Cardiology guidelines for the management of atrial fibrillation.\n
+The CHA2DS2-VASc score assigns points (0-9) depending on the presence or absence of co-morbidities. A score = 0 corresponds to a truly low risk, and thus the recommendation is to prescribe either aspirin or no antithrombotic therapy, but no antithrombotic therapy is preferred.\n
+Stroke risk assessment should always include an assessment of bleeding risk. This can be done using validated bleeding risk scores, such as the HEMORR2HAGES or HAS-BLED scores. The latter is recommended in the ESC and Canadian guidelines. If the patient is taking warfarin, then knowledge of INR control is needed to assess the labile INR criterion in HAS-BLED; otherwise for a non-warfarin patient, this scores zero.";
+"WRUPLAYER_Info_Scoring" = "The corrolation between CHADS-VASC score and the risk of a thromboembolic event are as follows: \n\n 0:  Low risk \n 1: Intermediate risk \n 2-9: High risk\n\n Each item which is indicated as positive scores 1. In the case of the patient's age, below 65 scores 0, 65-75 years scores 1 and over 75 years scores 2. With regard to gender, male scores 0, female scores 1.";
+"WRUPLAYER_Info_Versions" = "The CHADS2 score is a shorter version of the CHADS-Vasc tool, which does not include 'stroke risk modifier' risk factors.";
+"WRUPLAYER_Info_AdditionalReferences" = "Gage BF, van Walraven C, Pearce L, et al. (2004). Selecting patients with atrial fibrillation for anticoagulation: stroke risk stratification in patients taking aspirin. Circulation 110 (16): 2287–92.\n\nGage BF, Waterman AD, Shannon W, Boechler M, Rich MW, Radford MJ (2001). Validation of clinical classification schemes for predicting stroke: results from the National Registry of Atrial Fibrillation. JAMA 285 (22): 2864–70. \n\nRisk of Stroke with AF. VA Palo Alto Medical Center and at Stanford University: the Sportsmedicine Program and the Cardiomyopathy Clinic. Retrieved 2007-09-14. \n\nSteiner, Thorsten; Jonathan Rosand, Michael Diringer (2006). Intracerebral hemorrhage associated with oral anticoagulant therapy: current practices and unresolved questions. Stroke 37 (1): 256–62.";
+"WRUPLAYER_Info_Address" = "The scale is in the public domain";
+
+"WRUPLAYER_Final_Diagnosis_Level1" = "Your weight has decreased significantly.";
+"WRUPLAYER_Final_Diagnosis_Level2" = "Your weight has increased significantly.";
+"WRUPLAYER_Final_Diagnosis_Level3" = "";
+"WRUPLAYER_Final_Diagnosis_Level4" = "";
+"WRUPLAYER_Final_Diagnosis_Level5" = "";
+"WRUPLAYER_Final_Diagnosis_Extended_Level1" = "Please contact our doctor.";
+"WRUPLAYER_Final_Diagnosis_Extended_Level2" = "Please contact our doctor.";
+"WRUPLAYER_Final_Diagnosis_Extended_Level3" = "";
+"WRUPLAYER_Final_Diagnosis_Extended_Level4" = "";
+"WRUPLAYER_Final_Diagnosis_Extended_Level5" = "";

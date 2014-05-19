@@ -1,0 +1,56 @@
+<Survey>
+  <Entry>
+    <Username>owilliams@wru.co.uk</Username>
+    <WRUID>180</WRUID>
+    <FirstName>Owen</FirstName>
+    <LastName>Williams</LastName>
+    <DateAsString>27 APR 2014</DateAsString>
+    <Weight>85.2</Weight>
+    <WeightUnit>Kgs</WeightUnit>
+    <WeightStatus>Normal</WeightStatus>
+    <SleepTimeHour></SleepTimeHour>
+    <SleepTimeMinute></SleepTimeMinute>
+    <SleepTimeUnit></SleepTimeUnit>
+    <WakeupTimeHour></WakeupTimeHour>
+    <WakeupTimeMinute></WakeupTimeMinute>
+    <WakeupTimeUnit></WakeupTimeUnit>
+    <MedicationTaken></MedicationTaken>
+    <SleepScore></SleepScore>
+    <EnergyScore></EnergyScore>
+    <MoodScore></MoodScore>
+    <SleepScoreLow></SleepScoreLow>
+    <EnergyScoreLow></EnergyScoreLow>
+    <MoodScoreLow></MoodScoreLow>
+    <Illness></Illness>
+    <CommentRecipient></CommentRecipient>
+    <CommentRecipientEmail></CommentRecipientEmail>
+    <Comment></Comment>
+  </Entry>
+  <Entry>
+    <Username>owilliams@wru.co.uk</Username>
+    <WRUID>180</WRUID>
+    <FirstName>Owen</FirstName>
+    <LastName>Williams</LastName>
+    <DateAsString>28 APR 2014</DateAsString>
+    <Weight>85.4</Weight>
+    <WeightUnit>Kgs</WeightUnit>
+    <WeightStatus>Normal</WeightStatus>
+    <SleepTimeHour></SleepTimeHour>
+    <SleepTimeMinute></SleepTimeMinute>
+    <SleepTimeUnit></SleepTimeUnit>
+    <WakeupTimeHour></WakeupTimeHour>
+    <WakeupTimeMinute></WakeupTimeMinute>
+    <WakeupTimeUnit></WakeupTimeUnit>
+    <MedicationTaken></MedicationTaken>
+    <SleepScore></SleepScore>
+    <EnergyScore></EnergyScore>
+    <MoodScore></MoodScore>
+    <SleepScoreLow></SleepScoreLow>
+    <EnergyScoreLow></EnergyScoreLow>
+    <MoodScoreLow></MoodScoreLow>
+    <Illness></Illness>
+    <CommentRecipient></CommentRecipient>
+    <CommentRecipientEmail></CommentRecipientEmail>
+    <Comment></Comment>
+  </Entry>
+</Survey>
